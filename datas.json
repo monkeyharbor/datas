@@ -1,11 +1,11 @@
-{"datas" : [ {
-    "source name" : "Project Natick Website" ,
-    "date published" : "  ",
-    "owner" : "Microsoft" ,
-    "date collected" : " " ,
-    "relationship to owner" : " "
-
-}
-
-]
+{
+    "datas": [
+        {
+            "source name": "Project Natick Website",
+            "owner": "Microsoft",
+            "relationship to owner": "self",
+            "date published": "  ",
+            "date collected": " "
+        }
+    ]
 }
