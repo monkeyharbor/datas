@@ -1,11 +1,46 @@
 {
     "datas": [
         {
-            "source name": "Project Natick Website",
+            "sourceName": "Project Natick Website",
             "owner": "Microsoft",
-            "relationship to owner": "self",
-            "date published": "  ",
-            "date collected": " "
+            "relationshipToOwner": "self",
+            "datePublished": "09/2020",
+            "dateStarted": "06/2018",
+            "intendedAudience": "Tech companies, marine industry, energy professionals",
+            "purpose": "PR",
+            "usage": "publicity",
+            "transparency": 3,
+            "transparencyDescription": "clear and polished project overview, no public data to support claims, changed from 2 to 3 because it's presented as PR"
+            
+        },
+        {
+            "sourceName": "Marine Traffic",
+            "owner": "Marine Traffic",
+            "intendedAudience": "Maritime companies and individuals",
+            "purpose": "transparency",
+            "usage": "monitoring",
+            "transparency": 8,
+            "transparencyDescription": "objective of maritime transparency, access to location, route, vessel details, speed with option through paid service to access API, history of routes, transparency in partnerships, but mission is very anthropogenic-focused, no visual or sonic presence of marine life impact"
+        }, 
+        {
+            "sourceName": "Global Fishing Watch",
+            "owner": "Oceana, SkyTruth, Google",
+            "intendedAudience": "governments",
+            "purpose": "fishing transparency",
+            "usage": "monitoring",
+            "transparency": 7,
+            "transparencyDescription": "objective of ocean sustainability, but is it economic, political, or ecological? It monitors activity in accordance to fishing laws rather than ecological impact, no mention of fragile, endangered habits where fishing should not occur or ecological history of fishing in an area"
+        },
+        { 
+            "sourceName": "Internet Infrastructure Map",
+            "owner": "Infrapedia",
+            "intendedAudience": "data center providers and clients",
+            "purpose": "platform for datacenter professionals to swap resources and deals",
+            "usage": "marketplace for storage",
+            "transparency": 5,
+            "transparencyDescription": "Most comprehensive map of existing network infrastructure including land and sea cables and datacenters with additional info on length, owner, and connections. However, it rarely includes detailed info on a data center's total power, PUE, temperature, cooling, etc. Info on any residual environmental impact is missing. It seems to only facilitate contracts between providers and storage buyers."
+            
+
         }
     ]
 }
