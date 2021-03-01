@@ -3,33 +3,34 @@
         {
             "sourceName": "Project Natick Website",
             "owner": "Microsoft",
-            "relationshipToOwner": "self",
+            "relationshipToNatick": "self",
             "datePublished": "09/2020",
             "dateStarted": "06/2018",
-            "intendedAudience": "Tech companies, marine industry, energy professionals",
+            "intendedAudience": "tech companies, marine industry, energy professionals",
             "purpose": "PR",
             "usage": "publicity",
             "transparency": 3,
-            "transparencyDescription": "clear and polished project overview, no public data to support claims, changed from 2 to 3 because it's presented as PR"
-            
+            "transparencyDescription": "Clear and polished PR-geared project overview. No public data to support claims. Request denied."   
         },
         {
             "sourceName": "Marine Traffic",
             "owner": "Marine Traffic",
+            "relationshipToNatick": "indirectly, via impact on marine life",
             "intendedAudience": "Maritime companies and individuals",
             "purpose": "transparency",
             "usage": "monitoring",
             "transparency": 8,
-            "transparencyDescription": "objective of maritime transparency, access to location, route, vessel details, speed with option through paid service to access API, history of routes, transparency in partnerships, but mission is very anthropogenic-focused, no visual or sonic presence of marine life impact"
+            "transparencyDescription": "Its goal is maritime transparency; provides access to location, route, speed, and vessel details, with paid service option to access APIs, and history of routes. Shows transparency in terms of partnerships. Its focus is on vessels only and excludes impact on marine life or its presence of marine impact."
         }, 
         {
             "sourceName": "Global Fishing Watch",
             "owner": "Oceana, SkyTruth, Google",
+            "relationshipToNatick": "indirectly, via impact on marine life and",
             "intendedAudience": "governments",
             "purpose": "fishing transparency",
             "usage": "monitoring",
             "transparency": 7,
-            "transparencyDescription": "objective of ocean sustainability, but is it economic, political, or ecological? It monitors activity in accordance to fishing laws rather than ecological impact, no mention of fragile, endangered habits where fishing should not occur or ecological history of fishing in an area"
+            "transparencyDescription": "States its objective as ocean sustainability, but is it economic/political, or ecological? It monitors activity in accordance to fishing laws rather than ecological impact, no mention of fragile, endangered habitats/species nor ecological history of fishing."
         },
         { 
             "sourceName": "Internet Infrastructure Map",

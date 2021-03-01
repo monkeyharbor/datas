@@ -20,6 +20,7 @@ d3.json("datas.json").then((data) => {
 });
 
 function drawCircles() {
+ 
   var circle = d3.selectAll("circle"); //selecting all w/ circle tags
   circle.data(tpScore); // pinning our transparency scores to the circles
   circle.style("fill", "blue");
