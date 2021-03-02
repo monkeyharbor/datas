@@ -3,7 +3,7 @@
         {
             "sourceName": "Project Natick Website",
             "owner": "Microsoft",
-            "relationshipToNatick": "self",
+            "relationshipToNatick": "self promotion",
             "datePublished": "09/2020",
             "dateStarted": "06/2018",
             "intendedAudience": "tech companies, marine industry, energy professionals",
@@ -15,7 +15,7 @@
         {
             "sourceName": "Marine Traffic",
             "owner": "Marine Traffic",
-            "relationshipToNatick": "indirectly, via impact on marine life",
+            "relationshipToNatick": "indirect, via impact on marine life",
             "intendedAudience": "Maritime companies and individuals",
             "purpose": "transparency",
             "usage": "monitoring",
@@ -25,7 +25,7 @@
         {
             "sourceName": "Global Fishing Watch",
             "owner": "Oceana, SkyTruth, Google",
-            "relationshipToNatick": "indirectly, via impact on marine life and",
+            "relationshipToNatick": "indirect, via impact on marine life and with Google as partner (Microsoft's co-lead in tech",
             "intendedAudience": "governments",
             "purpose": "fishing transparency",
             "usage": "monitoring",
@@ -35,13 +35,23 @@
         { 
             "sourceName": "Internet Infrastructure Map",
             "owner": "Infrapedia",
+            "relationshipToNatick": "none yet",
             "intendedAudience": "data center providers and clients",
             "purpose": "platform for datacenter professionals to swap resources and deals",
             "usage": "marketplace for storage",
             "transparency": 5,
             "transparencyDescription": "Most comprehensive map of existing network infrastructure including land and sea cables and datacenters with additional info on length, owner, and connections. However, it rarely includes detailed info on a data center's total power, PUE, temperature, cooling, etc. Info on any residual environmental impact is missing. It seems to only facilitate contracts between providers and storage buyers."
-            
-
+        },
+        { 
+            "sourceName": "NCEI Passive Acoustic Data Archive",
+            "owner": "NOAA National Centers for Environmental Information",
+            "relationshipToNatick": "indirect, will monitor noise pollution of underwater data centers",
+            "intendedAudience": "scientists, researchers, public",
+            "purpose": "monitor living marine resources, geological activity, and assess impacts of anthropogenic noise on marine life",
+            "usage": "create an archive for passive acoustic data",
+            "transparency": 8,
+            "transparencyDescription": "json and sound files are accessible either via google drive or by request",
+            "confusion index": "website is difficult to navigate"
         }
     ]
 }
